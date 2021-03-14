@@ -1,6 +1,6 @@
 import requests
 import json
-
+ 
 # result = requests.get ('https://google.com')
 # print (result.text)
 
